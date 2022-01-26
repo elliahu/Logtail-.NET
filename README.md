@@ -254,7 +254,7 @@ Code above will create the following output:
       "logger_string":"Program",
       "runtime":{
          "class_string":"Program",
-         "file_string":"D:\\prace\\dotnet_logtail\\Program.cs",
+         "file_string":"D:\\dotnet_logtail\\Program.cs",
          "line_integer":"25",
          "member_string":"<Main>$"
       },
