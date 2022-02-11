@@ -2,6 +2,9 @@
 
 Logtail uses a highly popular NLog logging library. You can integrate Logtail into your .NET application in just a few simple steps.
 
+**Supported version:**
+- .NET 5 or newer (to use the example project .NET 6 is required)
+
 # Installation
 
 To use Logtail in your .NET project you need to install the following two packages. It can be done from the Visual Studio interface or command line, depending on your preferences.
